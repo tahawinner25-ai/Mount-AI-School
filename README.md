@@ -1,4 +1,5 @@
 # Mount-AI-Scholar
+My name is [Taha], I am 13 years old, and I am deeply passionate about software development and Artificial Intelligence. Mount AI: Scholar is part of a larger ecosystem I am currently building called Mount AI Pro, an ultimate AI suite designed to boost daily productivity.
 # 🏔️ Mount AI: Scholar
 
 > **The complexity translator for students, powered by Llama 3.**
